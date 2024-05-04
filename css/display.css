@@ -1,0 +1,28 @@
+/* style.css */
+
+#modal {
+    display: block; /* Exibe a caixa modal por padrão */
+    position: fixed; /* Posiciona a caixa modal de forma fixa na tela */
+    top: 0; /* Posiciona a caixa modal no topo da tela */
+    left: 0; /* Posiciona a caixa modal na esquerda da tela */
+    width: 100%; /* Define a largura da caixa modal para 100% da tela */
+    height: 100%; /* Define a altura da caixa modal para 100% da tela */
+    background-color: rgba(0, 0, 0, 0.5); /* Define a cor de fundo da caixa modal (transparente) */
+}
+
+.conteudoModal {
+    width: 50vw;
+    height: auto;
+    margin: 14% auto; /* Centraliza o conteúdo da caixa modal na tela */
+
+    text-align: center;
+
+    padding: 32px; /* Adiciona espaço interno ao conteúdo da caixa modal */
+    border-radius: 8px; /* Arredonda os cantos do conteúdo da caixa modal */
+
+    background-color: #fff; /* Define a cor de fundo do conteúdo da caixa modal */
+}
+
+#fecharModal {
+    display: none; /* Exibe o botão de fechar */
+}
