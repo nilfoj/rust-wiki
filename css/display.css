@@ -8,6 +8,7 @@
     left: 0; /* Posiciona a caixa modal na esquerda da tela */
     width: 100%; /* Define a largura da caixa modal para 100% da tela */
     height: 100%; /* Define a altura da caixa modal para 100% da tela */
+    overflow: auto;
 }
 
 .conteudoModal {
