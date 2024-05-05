@@ -1,0 +1,30 @@
+@import url(display.css);
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Josefin+Slab:ital,wght@0,100..700;1,100..700&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&display=swap');
+
+:root {
+        
+    --bg-color__pri: #212435; /*Azul Claro - 25% */
+    --bg-color__sec: #24273A; /*Azul Claro - 100% */
+
+    --text-color__pri: #fff;
+    --text-color__sec: #ED8796;
+    --text-color__tec: #EED49F;
+    --text-color__qua: #A6DA95;
+    --text-color__qui: #C6A0F6;
+    --text-color__sex: #F5A97F;
+    --text-color__set: #91D7E3;
+
+    --text-font__pri: "Source Code Pro";
+}
+
+
+/*
+
+.source-code-pro-<uniquifier> {
+  
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+*/
