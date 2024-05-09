@@ -1,1 +1,1 @@
-# rust.wiki
+# rust.wiki.br
