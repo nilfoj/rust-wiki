@@ -28,3 +28,5 @@ Operadores em Rust
 [{O2} Problema](https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=ca8833b653ab8b2a5b4d1748d3ac71ab)
 [{O2} Solução](https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=90b8ed6f8397e5ee61feba4b1452556b)
 
+[{O3} Problema](https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=06ef078ab50472e03b9e8c5f532164a4)
+[{O3} Solução](https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=fa01bb4e7d54e70d8fb2719d4fc76c21)
