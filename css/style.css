@@ -17,6 +17,22 @@
     --text-font__pri: "Source Code Pro";
 }
 
+body {
+  background-color: var(--bg-color__pri);
+  color: var(--text-color__pri);
+  margin: 4em;
+  font-family: var(--text-font__pri);
+  font-size: 0.8em;
+}
+
+a {
+  color: var(--text-color__tec);
+}
+
+li {  
+  line-height: 1.7em;  
+}
+
 /*
 
 .code-block {
