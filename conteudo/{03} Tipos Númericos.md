@@ -17,7 +17,7 @@ Números Inteiros!
 [{O2} Problema!](https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=62e3a2bbcb27500bebad77f62b2156a7)
 [{O2} Solução!](https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=76c3022a8668e666bf215a22ed23f657)
 
-_-----------------------------------------------------------------------------------------------------------_
+_---------------------------------------------------------------------------------------------_
 
 Números Decimais (Ponto Flutuante)
 

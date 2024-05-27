@@ -20,7 +20,7 @@ let idade: i32 = 30;
 // Declara uma variável 'nome' do tipo 'String' e inicializa com "João";
 let nome: String = "João".to_string(); 
 
- // Declara uma variável 'ativo' do tipo 'bool' e inicializa com 'true';
+// Declara uma variável 'ativo' do tipo 'bool' e inicializa com 'true';
 let ativo: bool = true;
 
 
