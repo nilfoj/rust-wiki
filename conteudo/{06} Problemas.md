@@ -3,7 +3,7 @@ Chegou a hora de você usar todo o conhecimento que adquiriu até agora. A segui
 
 Lembre-se, ainda não estou pedindo para que entenda lógica de programação, mas que crie soluções a parti de um problema o qual você sabe o caminho que precisa seguir!
 
-Vamos ter um pouco mais na frente um momento dedicado a questões envolvendo lógica e que vai precisar pensar não só no código mais na ideia de como chegar no resultado desejado, então até lá, de um passo de cada vez e não tenha pressa, rapidinho juntos vamos está zerando o Hackerrank!
+Vamos ter, um pouco mais na frente um momento dedicado a questões envolvendo lógica e que vai precisar pensar não só no código mais na ideia de como chegar no resultado desejado, então de um passo de cada vez e não tenha pressa, rapidinho juntos vamos está zerando o Hackerrank!
 
 _---------------------------------------------------------------------------------------------_
 
