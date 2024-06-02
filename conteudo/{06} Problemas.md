@@ -8,50 +8,20 @@ Vamos ter, um pouco mais na frente um momento dedicado a questões envolvendo l�
 _---------------------------------------------------------------------------------------------_
 
 [{O1} Problema](https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=87b34813dec143ebd0f0c32100d7bccc)
-[{O2} Solução](https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=0b2e8f503ea381ddc1ece17618415933)
+[{O2} Solução](https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=64ccdeda6f55a63e3e1a517edb8644c6)
 
 _---------------------------------------------------------------------------------------------_
 
-https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=582192084cbe6d694943924fd34f6ef5
-
-_---------------------------------------------------------------------------------------------_
-
-
-
-_---------------------------------------------------------------------------------------------_
-
+[{O1} Problema](https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=cb42dcefe5db6f8779178f5f69ca49a1)
+[{O2} Solução](https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=02f69b016e2356c3a230e82dbb458a47)
 
 
 _---------------------------------------------------------------------------------------------_
 
-**Em uma loja de eletrônicos, você está comprando 4 itens com descontos diferentes:**
 
-- **Notebook:** Preço original R$ 2.500,00 com 15% de desconto.
-- **Tablet:** Preço original R$ 800,00 com 10% de desconto.
-- **Fone de ouvido:** Preço original R$ 150,00 com 25% de desconto.
-- **Mouse:** Preço original R$ 50,00 com 5% de desconto.
-
-**Calcule quanto você vai pagar no total pelos 4 itens.**
-
-**Resolução:**
-
-2. Para cada item, calcule o valor do desconto:
-    - **Notebook:** Desconto = R$ 2.500,00 * 15% = R$ 375,00 Preço final = R$ 2.500,00 - R$ 375,00 = R$ 2.125,00
-    - **Tablet:** Desconto = R$ 800,00 * 10% = R$ 80,00 Preço final = R$ 800,00 - R$ 80,00 = R$ 720,00
-    - **Fone de ouvido:** Desconto = R$ 150,00 * 25% = R$ 37,50 Preço final = R$ 150,00 - R$ 37,50 = R$ 112,50
-    - **Mouse:** Desconto = R$ 50,00 * 5% = R$ 2,50 Preço final = R$ 50,00 - R$ 2,50 = R$ 47,50
-
-1. Calcule o total a pagar somando os preços finais de cada item:
-    
-    Total = R$ 2.125,00 + R$ 720,00 + R$ 112,50 + R$ 47,50 = R$ 3.005,00 
-
-**Resposta:**
-
-Você vai pagar **R$ 3.005,00** no total pelos 4 itens.
 
 
 _---------------------------------------------------------------------------------------------_
-
 
 Questão com Gasto de Combustível de um Carro
 
