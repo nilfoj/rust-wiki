@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "{06} Problemas.md",
+                "file": "{05} Funções.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "{06} Problemas.md",
+                "file": "{05} Funções.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "{06} Problemas.md",
+                "file": "{05} Funções.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "{06} Problemas.md"
+                "file": "{05} Funções.md"
               }
             }
           }
@@ -147,5 +147,10 @@
     }
   },
   "active": "4ac305802c42dd81",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "{04} Operadores Aritméticos.md",
+    "{03} Tipos Númericos.md",
+    "{05} Funções.md",
+    "{06} Problemas.md"
+  ]
 }
