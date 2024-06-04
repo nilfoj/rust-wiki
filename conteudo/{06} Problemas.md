@@ -1,31 +1,31 @@
 
-Chegou a hora de você usar todo o conhecimento que adquiriu até agora. A seguir você irá se deparar com questões simples, que possuem sua resolução e seu resultado e na qual você vai precisar criar o código para fazer o mesmo.
+Chegou a hora de você usar todo o conhecimento que adquiriu até agora. A seguir você irá se deparar com questões simples, que possuem sua resolução na qual você vai precisar criar o código para fazer o mesmo.
 
 Lembre-se, ainda não estou pedindo para que entenda lógica de programação, mas que crie soluções a parti de um problema o qual você sabe o caminho que precisa seguir!
 
-Vamos ter, um pouco mais na frente um momento dedicado a questões envolvendo lógica e que vai precisar pensar não só no código mais na ideia de como chegar no resultado desejado, então de um passo de cada vez e não tenha pressa, rapidinho juntos vamos está zerando o Hackerrank!
+Vamos ter, um pouco mais na frente um momento dedicado a questões envolvendo lógica e que vai precisar pensar não só no código mais na ideia de como chegar no resultado desejado, então de um passo de cada vez e não tenha pressa e juntos vamos está zerando o Hackerrank!
 
 _---------------------------------------------------------------------------------------------_
 
-[{O1} Problema](https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=87b34813dec143ebd0f0c32100d7bccc)
-[{O2} Solução](https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=64ccdeda6f55a63e3e1a517edb8644c6)
+[{01} Problema](https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=87b34813dec143ebd0f0c32100d7bccc)
+[{02} Solução](https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=64ccdeda6f55a63e3e1a517edb8644c6)
 
 _---------------------------------------------------------------------------------------------_
 
-[{O1} Problema](https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=cb42dcefe5db6f8779178f5f69ca49a1)
-[{O2} Solução](https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=02f69b016e2356c3a230e82dbb458a47)
-
+[{01} Problema](https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=cb42dcefe5db6f8779178f5f69ca49a1)
+[{02} Solução](https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=02f69b016e2356c3a230e82dbb458a47)
 
 _---------------------------------------------------------------------------------------------_
 
-
+[{03} Problema](https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=9de1f60a703d4cfce631ced84db3b6f0)
+[{03} Solução](https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=21061a1abcd1a046009e20f4e6579c9a)
 
 
 _---------------------------------------------------------------------------------------------_
 
 Questão com Gasto de Combustível de um Carro
 
-**Em uma viagem de 300 km, um carro percorreu 12 km/L na cidade e 18 km/L na rodovia. Sabendo que 40% do trajeto foi percorrido na cidade e 60% na rodovia, calcule o total de litros de combustíve**l** utilizados durante a viagem.**
+**Em uma viagem de 300 km, um carro percorreu 12 km/L na cidade e 18 km/L na rodovia. Sabendo que 40% do trajeto foi percorrido na cidade e 60% na rodovia, calcule o total de litros de combustível**l** utilizados durante a viagem.**
 
 **Resolução:**
 
