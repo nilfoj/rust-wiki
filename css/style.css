@@ -37,39 +37,31 @@ li {
   line-height: 1.7em;  
 }
 
-/*
-
-.code-block {
-  background-color: #f5f5f5;
+.code-box {
+  position: relative;
+  margin: 20px;
   border: 1px solid #ccc;
-  padding: 10px;
-  margin-bottom: 10px;
+  border-radius: 5px;
+  padding: 20px;
+  background-color:  #ccc;
+  overflow: auto; /* Permite rolagem se o código for longo */
 }
 
-.code-block pre {
-  white-space: pre-wrap;
-  font-family: monospace;
-}
 
-.play-button {
-  display: inline-block;
-  padding: 5px 10px;
-  margin-right: 10px;
-  background-color: #4CAF50;
+/* Estilo para o botão de copiar */
+.copy-button {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  padding: 8px 12px;
+  background-color: #007bff;
   color: white;
   border: none;
+  border-radius: 3px;
   cursor: pointer;
 }
 
-.result {
-  background-color: #e6e6e6;
-  border: 1px solid #ccc;
-  padding: 10px;
-  margin-top: 10px;
+.copy-button:hover {
+  background-color: #0056b3;
+
 }
-
-
-
-*/
-
-

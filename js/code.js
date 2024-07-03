@@ -1,15 +1,10 @@
-/*
-
-const codeBlock = document.querySelector('.code-block pre');
-const playButton = document.querySelector('.play-button');
-const result = document.querySelector('.result');
-
-playButton.addEventListener('click', () => {
-    // Use a Rust compiler or interpreter to execute the code
-    const code = codeBlock.textContent;
-    const output = "Hello, word"    //Execute the code and get the output//;
-
-    result.textContent = output;
-});
-
-*/
+function copyCode() {
+    const codeElement = document.querySelector('.code-box code');
+    const selection = window.getSelection();
+    const range = document.createRange();
+    range.selectNodeContents(codeElement);
+    selection.removeAllRanges();
+    selection.addRange(range);
+    document.execCommand('copy');
+    selection.removeAllRanges();
+}
