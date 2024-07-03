@@ -3,7 +3,9 @@
 #
 📚 Descrição
 
-Este guia descomplicado foi criado para compartilhar os fundamentos da linguagem Rust de maneira acessível, mesmo para aqueles sem nenhuma experiência anterior em programação. Através de explicações claras e concisas, você estará pronto para dar seus primeiros passos neste universo promissor e construir suas próprias aplicações Rust em pouco tempo.
+Esse pequeno projeto nasce com o intuito de compartilhar conhecimentos dentro da programação em rust, buscando que seja feito de forma simples, fácil e mesmo sem conhecimento algum, possamos juntos conversar.
+
+Os textos são escritos com o intuito de explicar da forma mais fácil possível os conceitos que podem parecer complicados, todo o código estará sendo disponibiliazado para ser rodado online, assim facilitando a experiência.
 
 #
 💻 Aplicação
@@ -26,6 +28,6 @@ Todo o texto e desafios ainda está sendo feito apenas por mim, então caso aind
 ⌛ Conteúdos e Atualizações
 
 - Básico: Print, Variáveis, Tipos Númericos, Operadores Aritméticos e Funções;
-- Escrevendo: Bibliotecas (std, actix[web], bevy[games]).
+- Escrevendo: Bibliotecas (std, actix [web], bevy [games]).
 
 
