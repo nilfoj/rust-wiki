@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/style.css">
+    <script src="/js/display.js" defer>Display</script>
+    <script src="/js/code.js" defer>Display</script>
+    <title>Rust - Print</title>
+</head>
+
+<body>
+
+    <h2>{+} Print!</h2>
+
+    <p>Hello, world!</p>
+
+    <p>Uma das primeiras coisas que fazemos tradicionalmente ao inicial o estudo em qualquer linguagem é imprimir na
+        tela a frase: Hello, world! ou Olá, Mundo!</p>
+
+    <p>Essa tradição se deu por conta de Brian Kernighan, autor e criador do "C Programming Language". caso queira
+        conhecer melhor, acesse os links a seguir: </p>
+
+    <ul>
+        <li><a href="https://dmenezesgabriel.github.io/programacao/origens-do-hello-world/" target="_blank">Você conhece
+                a origem do
+                “Hello World!”?</a></li>
+
+        <li><a href="https://www.brasilcode.com.br/hello-world-em-30-linguagens-de-programacao-diferentes/"
+                target="_blank">“Hello World” em 30 Linguagens de Programação Diferentes</a></li>
+    </ul>
+
+    <p>Cada linguagem possui sua própria forma de escrita e o rust não é muito diferente disso:</p>
+
+    <div class="code-box">
+        <pre>
+            <code class="language-html">
+        
+fn main () {
+
+    println!("Hello World!");
+
+}
+                    
+            </code>
+        </pre>
+        <button class="copy-button" onclick="copyCode()">Copiar</button>
+    </div>
+
+
+    <p>Estrutura do código:</p>
+
+    <ul>
+        <li>fn main () {} = Função principal do seu código (Aqui você deve escrever seu código principal entre os { });
+        </li>
+        <li>println!("") = Imprimi um texto que está entre aspas.(Dentro das aspas você escreve o código que deseja que
+            apareça na tela).</li>
+    </ul>
+
+    <p>Porém, a ideia aqui é entender a importancia e uso do "print"</p>
+
+    <p>Tipos de print:</p>
+
+    <ul>
+        <li>print! = imprimi um texto, mas não adiciona uma linha;</li>
+        <li>println! = imprimi um texto e pula uma linha;</li>
+    </ul>
+
+    <p>Acesse: <a href="https://play.rust-lang.org/?version=stable&mode=debug&edition=2021" target="_blank">Rust
+            Playground</a> e faça os testes.</p>
+
+
+    <p>O print é muito importante na programação, por vezes nos deparamos com a necessidade de exibir um determinado
+        código na tela, como:
+         a saída de um IP, o resultado de um calculo, entre outras funcionalidades. Vou deixar a
+        seguir alguns códigos aonde podemos observar seu uso.</p>
+
+        <div class="code-box">
+            <pre>
+                <code class="language-html">
+            
+// Soma
+
+let x = 12;
+let y = 7;
+
+let resultado = x + y;
+
+println!("Soma de x e y: {}", resultado);
+
+
+
+// Informações de um pessoa
+                        
+let nome = "João";
+let idade = 30;
+
+println!("Nome: {} | Idade: {}", nome, idade);
+
+                </code>
+            </pre>
+            <button class="copy-button" onclick="copyCode()">Copiar</button>
+        </div>
+
+
+
+</body>
+
+</html>

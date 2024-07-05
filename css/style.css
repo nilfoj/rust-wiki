@@ -13,6 +13,9 @@
     --text-color__qui: #C6A0F6;
     --text-color__sex: #F5A97F;
     --text-color__set: #91D7E3;
+    --text-color__oct: #1e1e2e;
+    --text-color__nin: #89b4fa;
+
 
     --text-font__pri: "Source Code Pro";
 }
@@ -37,13 +40,22 @@ li {
   line-height: 1.7em;  
 }
 
+.obs {  
+  color: var(--text-color__qua);
+}
+
+.importante {
+  color: var(--text-color__sec);
+}
+
 .code-box {
+  margin: 2.5rem;
   position: relative;
-  margin: 20px;
-  border: 1px solid #ccc;
-  border-radius: 5px;
-  padding: 20px;
-  background-color:  #ccc;
+  font-size: 1.2em;
+  border: 1px solid var(--text-color__oct);
+  border-radius: 8px;
+  padding: 2rem;
+  background-color:  var(--text-color__oct);
   overflow: auto; /* Permite rolagem se o código for longo */
 }
 
@@ -54,8 +66,8 @@ li {
   top: 10px;
   right: 10px;
   padding: 8px 12px;
-  background-color: #007bff;
-  color: white;
+  background-color: var(--text-color__nin);
+  color: var(--text-color__pri);
   border: none;
   border-radius: 3px;
   cursor: pointer;
@@ -63,5 +75,4 @@ li {
 
 .copy-button:hover {
   background-color: #0056b3;
-
 }
